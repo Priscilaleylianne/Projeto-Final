@@ -80,7 +80,7 @@ Essas análises foram fundamentais para responder às perguntas analíticas e or
 Devido ao seu tamanho final superior 100 MB, ele não pôde ser hospedado diretamente neste repositório GitHub.
 Você pode baixá-lo através do link abaixo:
 
-🔗 [Clique aqui para acessar arquivos no Google Drive](https://drive.google.com/drive/folders/1DQar2vxabo_mPO0yLvIkUxy_TWzMNZl4?usp=sharing)
+[Clique aqui para acessar arquivos no Google Drive](https://drive.google.com/drive/folders/1DQar2vxabo_mPO0yLvIkUxy_TWzMNZl4?usp=sharing)
 
 Ou atráves do arquivo txt, que encontra-se no repositório GitHub.
 
@@ -93,7 +93,6 @@ Ou atráves do arquivo txt, que encontra-se no repositório GitHub.
 ## Status do Projeto
 
 **Concluído — Aquisição, Pré-Processamento e Análise Exploratória Finalizadas.**  
-**Em planejamento — Aplicação de algoritmos de Machine Learning para previsão de recompra.**
 
 ---
 
