@@ -84,6 +84,13 @@ Você pode baixá-lo através do link abaixo:
 
 Ou atráves do arquivo txt, que encontra-se no repositório GitHub.
 
+Link de acesso ao PostgreSQL
+https://pospgadmin.interativoti.app/browser/
+
+Usuário: administrador@interativoti.com.br
+porta: 5435
+Senha: suport01
+
 ## Referências
 
 - **KAGGLE**. *Instacart Market Basket Analysis*. Disponível em: [https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). Acesso em: junho de 2025.
