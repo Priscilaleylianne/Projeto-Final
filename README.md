@@ -1,6 +1,6 @@
 # Projeto Final
 
-# Análise de Recompra em Comércio Eletrônico: Dataset Instacart
+# Análise de Recompra em Comércio Eletrônico: Uma Abordagem de Aquisição e Pré-Processamento de Dados no dataset Instacart
 
 ## Introdução
 
